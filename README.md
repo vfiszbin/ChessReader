@@ -1,5 +1,8 @@
 # CS433_Project_2_ChessReader
 
+<img width="315" height="190" alt="Handwritten chess move" src="https://github.com/user-attachments/assets/101a3ad2-7200-45a4-b5ab-52803492f168" />
+
+
 This repository contains the work we did for the CS-433 Project on handwritten chess-notation recognition, under the supervision of the NLP research group at Zurich University of Applied Sciences (ZHAW).
 
 Since little annotated data was available, we first rebuilt and extended a synthetic data generation pipeline based on earlier student work. The idea was to produce a large and diverse dataset of handwritten chess moves by combining thousands of real moves with hundreds of handwriting-style fonts and a range of image transformations.
